@@ -1,12 +1,5 @@
 # macOS
 .DS_Store
-.AppleDouble
-.LSOverride
-.Spotlight-V100
-.Trashes
-
-# VS Code
-.vscode/
 
 #MNIST Data
 .data
